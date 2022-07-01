@@ -1,13 +1,13 @@
 {
   "name": "nodejs_api_DC-Nam",
   "version": "18.4.0",
-  "description": "Welcome Back Nam Master",
+  "description": "Chào Mừng Cậu Chủ Nam Đã Trở Lại",
   "main": "index.js",
   "engines": {
     "node": "18.4.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "DC-Nam",
   "license": "ISC",
