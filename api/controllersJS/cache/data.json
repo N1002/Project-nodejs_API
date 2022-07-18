@@ -1,0 +1,9 @@
+[
+    {
+        "ip": "27.78.8.64",
+        "type": "free",
+        "key": "446c8fcd-dbb6-44e5-9d9d-e0235dce777f",
+        "request": 100,
+        "limitsp": "100 request trong 5p"
+    }
+]
